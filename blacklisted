@@ -1,3 +1,4 @@
-return {
-["3635857478"] = "test",
+{
+	"userId": "3635857478",
+  "reason": "ban test"
 }
