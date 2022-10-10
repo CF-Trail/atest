@@ -1,3 +1,2 @@
-{
-	"userId": "3635857478",
-}
+blacklists = {3635857478}
+return blacklists
